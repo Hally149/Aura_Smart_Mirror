@@ -1,3 +1,5 @@
+# backend
+
 from transformers import pipeline
 bs_model = pipeline("text-classification", model="microsoft/deberta-v3-base", truncation=True)
 
