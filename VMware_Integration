@@ -1,0 +1,7 @@
+
+# VMware Integration for Aura Mirror
+
+1. Install Ubuntu + Python + OpenCV inside VMware.
+2. Enable USB pass-through for camera/mic.
+3. Map GPIO to Raspberry Pi via SSH or use virtual hardware API.
+4. Use Flask server inside VM; connect to hardware via Pi scripts over network.
