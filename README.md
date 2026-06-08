@@ -124,6 +124,5 @@ Tech enthusiasts blending AI, psychology, and lifestyle design
 
 ---
 
-🙌 Created By
 
 Made by  404 Femez (Team 109). (Hally E., Pushpa R., Grace P., Bani K. P.)
