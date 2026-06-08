@@ -8,7 +8,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return render_template('dashboard.html')
-
+ 
 @app.route('/api/emotion', methods=['POST'])
 def emotion_api():
     image = request.files['image']
