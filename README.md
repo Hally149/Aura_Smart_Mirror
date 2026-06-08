@@ -1,4 +1,4 @@
-# 🌟 AuraSmartMirror - Emotionally Intelligent Smart Mirror
+# 🪞 AuraSmartMirror - Emotionally Intelligent Smart Mirror
 
 A hybrid AI + HI-powered smart mirror that enhances emotional wellness, productivity, beauty, and self-love. Built with Python for backend intelligence and HTML/CSS/JS for the frontend interface.
 
@@ -20,7 +20,7 @@ A hybrid AI + HI-powered smart mirror that enhances emotional wellness, producti
 - Listens to your queries and responds using a custom Python NLP backend.
 - Helps manage tasks, answer questions, and control modules hands-free.
 
-### 🌈 Mood Booster & Me-Time Mode
+### 😇 Mood Booster & Me-Time Mode
 - Activates a calming environment with guided affirmations and relaxing music.
 - Suggests journaling prompts or plays uplifting media when needed.
 
@@ -73,7 +73,7 @@ AuraSmartMirror/ ├── index.html ├── style.css ├── script.js �
 
 ---
 
-## 🚀 Instructions 
+## 📑 Instructions 
 
 1. **Clone the repo**
    ```bash
@@ -113,7 +113,7 @@ GPT-powered journaling and therapy prompts
 
 ---
 
-💖 Who’s It For?
+💜 Who’s It For?
 
 Girls and women looking for daily confidence, peace, and inspiration
 
