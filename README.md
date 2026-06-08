@@ -6,7 +6,7 @@ A hybrid AI + HI-powered smart mirror that enhances emotional wellness, producti
 
 ## 🧠 Overview
 
-**AuraSmartMirror** is a next-generation smart mirror device that merges **Artificial Intelligence** and **Human Intelligence** to create a deeply personal and emotionally aware experience. It's not just a mirror — it’s your voice assistant, mood booster, movie guide, daily planner, and self-care coach — all packed into an aesthetic web-connected mirror interface.
+**AuraSmartMirror** is a next-generation smart mirror device that merges **Artificial Intelligence** and **Human Intelligence** to create a deeply personal and emotionally aware experience. It's not just a mirror, it’s your voice assistant, mood booster, movie guide, daily planner, and self-care coach, all packed into an aesthetic web-connected mirror interface.
 
 ---
 
@@ -48,7 +48,7 @@ A hybrid AI + HI-powered smart mirror that enhances emotional wellness, producti
 - Sets daily goals and reminders.
 - Suggests ideal sleep time based on current mood and schedule.
 
-### 🔗 Phone-Connected System
+### 🔗 Phone Synching
 - Syncs with your smartphone via Bluetooth/WebSocket.
 - Sends reminders, mood insights, and notifications directly to your device.
 
@@ -126,6 +126,4 @@ Tech enthusiasts blending AI, psychology, and lifestyle design
 
 🙌 Created By
 
-Team 109.
-💻 Software & AI Enthusiast
-✨ Dreaming up tech that heals, empowers, and inspires.
+Made by  404 Femez (Team 109). (Hally E., Pushpa R., Grace P., Bani K. P.)
