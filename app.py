@@ -1,5 +1,5 @@
 # backend
-
+ 
 from flask import Flask, jsonify, request, render_template
 from emotion_detection import detect_emotion
 from spotify_music import get_song_for_emotion
