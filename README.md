@@ -1,6 +1,6 @@
 # 🌟 AuraSmartMirror — Emotionally Intelligent Smart Mirror
 
-> A hybrid AI + HI-powered smart mirror that enhances emotional wellness, productivity, beauty, and self-love. Built with Python for backend intelligence and HTML/CSS/JS for the frontend interface.
+A hybrid AI + HI-powered smart mirror that enhances emotional wellness, productivity, beauty, and self-love. Built with Python for backend intelligence and HTML/CSS/JS for the frontend interface.
 
 ---
 
@@ -67,17 +67,17 @@
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Order
 
 AuraSmartMirror/ ├── index.html ├── style.css ├── script.js ├── backend/ │   ├── emotion_detector.py │   ├── voice_assistant.py │   ├── movie_recommender.py │   ├── bs_detector.py │   └── planner.py ├── assets/ │   ├── icons/ │   ├── audio/ │   └── themes/ └── README.md
 
 ---
 
-## 🚀 How to Run
+## 🚀 Instructions 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/pushpasingha17/AuraSmartMirror.git
+   git clone https://github.com/Hally149/AuraSmartMirror.git
 
 2. Install Python requirements
 
