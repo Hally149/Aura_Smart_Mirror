@@ -1,3 +1,5 @@
+![Uploading Thumbnail.png…]()
+
 # 🪞 AuraSmartMirror - Emotionally Intelligent Smart Mirror
 
 A hybrid AI + HI-powered smart mirror that enhances emotional wellness, productivity, beauty, and self-love. Built with Python for backend intelligence and HTML/CSS/JS for the frontend interface.
