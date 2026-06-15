@@ -1,3 +1,6 @@
+<img width="1024" height="1024" alt="Thumbnail" src="https://github.com/user-attachments/assets/27d8bbc2-a508-4587-918d-c934ec534f80" />
+
+
 # 🪞 AuraSmartMirror - Emotionally Intelligent Smart Mirror
 
 A hybrid AI + HI-powered smart mirror that enhances emotional wellness, productivity, beauty, and self-love. Built with Python for backend intelligence and HTML/CSS/JS for the frontend interface.
