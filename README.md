@@ -1,4 +1,5 @@
-<img width="1024" height="1024" alt="Thumbnail" src="https://github.com/user-attachments/assets/27d8bbc2-a508-4587-918d-c934ec534f80" />
+<img width="2730" height="1535" alt="Futuristic GitHub Card (1)" src="https://github.com/user-attachments/assets/d4b6c95d-4488-4d05-8d98-2692ecf1c3fd" />
+
 
 
 # 🪞 AuraSmartMirror - Emotionally Intelligent Smart Mirror
